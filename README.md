@@ -72,7 +72,7 @@ description: I am a self learned fullstack developer contractor, based in Quitte
 ---
 
 - **Web master at Wecoffee**:
-  - Ideating of a new bio coffee brand in eco-packaging
+  - Ideating a new bio coffee brand in eco-packaging
   - Development of the packaging
   - Development and management of a static website on Wordpress and an e-commerce site on Prestashop
   - Logistic management
