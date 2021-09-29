@@ -75,7 +75,7 @@
 
 ## SKILLS:
 
-`reactjs` `javascript` `git` `github` `java` `linux` `bash` `power shell` `jira` `css` `gatsbyjs` `graphql` `sql` `docker` `aws` `cookie` `gdpr`
+`reactjs` `javascript` `git` `github` `java` `linux` `bash` `power shell` `jira` `css` `gatsbyjs` `graphql` `jamstack` `sql` `docker` `aws` `cookie` `gdpr`
 
 ## EDUCATION:
 
