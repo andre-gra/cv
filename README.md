@@ -13,6 +13,8 @@
 <dd>22th June 1985</dd>
 <dt>Languages</dt>
 <dd>Italian, English</dd>
+<dt>Contacts</dt>
+<dd>andregra717@gmail.com, https://www.linkedin.com/in/andrea-graglia-b8a25583/</dd>
 </dl>
 
 ## WORK EXPERIENCE:
