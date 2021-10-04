@@ -84,6 +84,7 @@
 1.  **High school degree in computer technology**
     - Itis Q.Sella - Biella
 
-#### To discover more about me visit [my portfolio](https://andreagraglia.gatsbyjs.io) site
+#### To discover more about me visit [https://andreagraglia.gatsbyjs.io](https://andreagraglia.gatsbyjs.io).
+#### If you are reading the pdf version, this page is also reachable online at https://andre-gra.github.io/cv/.
 
 
