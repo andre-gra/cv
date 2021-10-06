@@ -88,5 +88,5 @@
 
 #### To discover more about me visit [https://andreagraglia.gatsbyjs.io](https://andreagraglia.gatsbyjs.io).
 #### If you are reading the pdf version, this page is also reachable online at https://andre-gra.github.io/cv/.
-
+ 
 
