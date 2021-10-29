@@ -45,7 +45,7 @@
     - _Channel Pilot, bindCommerce, feed_
   - Control of the work-flow on new implementations of e-commerce platforms, management of bug priorities
     - _Bug hunting, Jira workflow_
-  - Feed and tracking evaluation on Ads performance
+  - Coordination for feed and web advertising technical implementations
     - _Google Tag Manager, Hurrà OWAPro Tag Manager, GDPR_
 
 ---
@@ -87,6 +87,6 @@
     - Itis Q.Sella - Biella
 
 #### To discover more about me visit [https://andreagraglia.gatsbyjs.io](https://andreagraglia.gatsbyjs.io).
-#### If you are reading the pdf version, this page is also reachable online at https://andre-gra.github.io/cv/.
+#### If you are reading the pdf version, my CV is also reachable online at https://andre-gra.github.io/cv/.
  
-
+###### Autorizzo il trattamento dei dati personali contenuti nel mio curriculum vitae in base art. 13 del D. Lgs. 196/2003.
