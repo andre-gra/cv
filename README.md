@@ -3,10 +3,8 @@
 ![Avatar](https://avatars.githubusercontent.com/u/26479015?s=200)
 
 <dl>
-<dt>Name</dt>
-<dd>Andrea</dd>
-<dt>Surname</dt>
-<dd>Graglia</dd>
+<dt>Name and Surname</dt>
+<dd>Andrea Graglia</dd>
 <dt>Birthplace and date of Birth </dt>
 <dd>Biella - Italy, 22th June 1985</dd>
 <dt>Spoken languages</dt>
