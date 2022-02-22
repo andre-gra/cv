@@ -7,11 +7,9 @@
 <dd>Andrea</dd>
 <dt>Surname</dt>
 <dd>Graglia</dd>
-<dt>Birthplace</dt>
-<dd>Biella - Italy</dd>
-<dt>Date of Birth</dt>
-<dd>22th June 1985</dd>
-<dt>Languages</dt>
+<dt>Birthplace and date of Birth </dt>
+<dd>Biella - Italy, 22th June 1985</dd>
+<dt>Spoken languages</dt>
 <dd>Italian, English</dd>
 <dt>Contacts</dt>
 <dd>andregra717@gmail.com, https://www.linkedin.com/in/andrea-graglia/</dd>
@@ -86,7 +84,6 @@
 1.  **High school degree in computer technology**
     - Itis Q.Sella - Biella
 
-#### To discover more about me visit [https://andreagraglia.com](https://andreagraglia.com).
-#### If you are reading the pdf version, my CV is also reachable online at https://andre-gra.github.io/cv/.
+#### Discover more about me visiting [https://andreagraglia.com](https://andreagraglia.com).
  
 ###### Autorizzo il trattamento dei dati personali contenuti nel mio curriculum vitae in base art. 13 del D. Lgs. 196/2003.
