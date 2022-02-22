@@ -26,7 +26,6 @@
 ## WORK DETAILS:
 
 - **Indipendent IT Consultant**:
-
   - Fullstack developer for E-commerce, website and webapp
     - _Microservices architecture, APIs, GraphQl, React, Gatsby, Tailwind css, Markdown, Strapi, Amazon AWS, Git_
   - Java software developer
