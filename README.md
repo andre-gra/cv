@@ -19,8 +19,8 @@
 
 | WHEN      | ROLE                                   | WHERE                    |
 | :-------- | :------------------------------------- | :----------------------- |
-| Currently | **Fullstack developer contractor**     | Indipendent              |
-| 2018-2020 | **Technical Web MarKeting specialist** | bonprix srl              |
+| From 2021 | **Fullstack developer contractor**     | Indipendent              |
+| 2018-2021 | **Technical Web MarKeting specialist** | bonprix srl              |
 | 2018      | **E-commerce developer**               | Orange Pix srl           |
 | 2017      | **Junior Web Developer**               | 3w srl                   |
 | 2014-2016 | **Cofounder at Wecoffee**              | Torrefazione Graglia snc |
