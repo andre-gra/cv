@@ -14,7 +14,7 @@
 <dt>Languages</dt>
 <dd>Italian, English</dd>
 <dt>Contacts</dt>
-<dd>andregra717@gmail.com, https://www.linkedin.com/in/andrea-graglia-b8a25583/</dd>
+<dd>andregra717@gmail.com, https://www.linkedin.com/in/andrea-graglia/</dd>
 </dl>
 
 ## WORK EXPERIENCE:
@@ -86,7 +86,7 @@
 1.  **High school degree in computer technology**
     - Itis Q.Sella - Biella
 
-#### To discover more about me visit [https://andreagraglia.gatsbyjs.io](https://andreagraglia.gatsbyjs.io).
+#### To discover more about me visit [https://andreagraglia.com](https://andreagraglia.com).
 #### If you are reading the pdf version, my CV is also reachable online at https://andre-gra.github.io/cv/.
  
 ###### Autorizzo il trattamento dei dati personali contenuti nel mio curriculum vitae in base art. 13 del D. Lgs. 196/2003.
