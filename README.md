@@ -17,7 +17,8 @@
 
 | WHEN      | ROLE                                   | WHERE                    |
 | :-------- | :------------------------------------- | :----------------------- |
-| From 2021 | **Fullstack developer contractor**     | Indipendent              |
+| 2021-now  | **Fullstack developer**                | Betacom Group            |
+| 2021-2022 | **Fullstack developer**                | Indipendent              |
 | 2018-2021 | **Technical Web MarKeting specialist** | bonprix srl              |
 | 2018      | **E-commerce developer**               | Orange Pix srl           |
 | 2017      | **Junior Web Developer**               | 3w srl                   |
@@ -25,11 +26,12 @@
 
 ## WORK DETAILS:
 
-- **Indipendent IT Consultant**:
+- **Fullstack Developer**:
   - Fullstack developer for E-commerce, website and webapp
-    - _Microservices architecture, APIs, GraphQl, React, Gatsby, Tailwind css, Markdown, Strapi, Amazon AWS, Git_
-  - Java software developer
-    - _Java 8 jdk, Sql, Maven, Ubuntu server, bash scripting_
+    - Frontend:  _Microservices architecture, APIs, React, Gatsby, Tailwind css, Sass, Markdown, Strapi_
+    - Backend: _Java, Maven, NodeJs, bash scripting_
+    - Db: _Oracle, IBM DB2, MySql, ElasticSearch, GraphQl, Amazon AWS_
+    Infrastructures: _Ubuntu Server, Windows Server, gitLab, gitHub_
   - Web marketing technical consultant
     - _Google Tag Manager, Hurrà OWAPro Tag Manager, cookie, GDPR, javascript web scripting, feed_
 
@@ -72,7 +74,7 @@
 
 ## SKILLS:
 
-`reactjs` `javascript` `git` `github` `java` `linux` `bash` `power shell` `jira` `css` `gatsbyjs` `graphql` `jamstack` `sql` `docker` `aws` `cookie` `gdpr`
+`reactjs` `javascript` `java` `NodeJs` `git` `github` `linux` `windows server` `bash` `power shell` `jira` `css` `gatsbyjs` `graphql` `jamstack` `sql` `docker` `aws` `cookie` `gdpr` `` postman
 
 ## EDUCATION:
 
