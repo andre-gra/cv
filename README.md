@@ -80,7 +80,7 @@ Some examples are:
 
 ## SKILLS:
 
-`reactjs` `javascript` `java` `NodeJs` `git` `github` `linux` `windows server` `bash` `power shell` `jira` `css` `gatsbyjs` `graphql` `jamstack` `sql` `docker` `aws` `cookie` `gdpr` `` postman
+`reactjs` `javascript` `java` `NodeJs` `git` `github` `linux` `windows server` `bash` `power shell` `jira` `css` `gatsbyjs` `graphql` `jamstack` `sql` `docker` `aws` `cookie` `gdpr` `postman`
 
 ## EDUCATION:
 
@@ -91,7 +91,7 @@ Some examples are:
 
 ## CERTIFICATIONS:
 1. **Full Stack Open**
-   - University of Helsinki (https://studies.cs.helsinki.fi/stats/api/certificate/fullstackopen/en/7abe11eabda36fa929b453dff894eb70)
+   - University of Helsinki - [https://studies.cs.helsinki.fi/stats/api/certificate/fullstackopen/en/7abe11eabda36fa929b453dff894eb70](https://studies.cs.helsinki.fi/stats/api/certificate/fullstackopen/en/7abe11eabda36fa929b453dff894eb70)
 
 #### Discover more about me visiting [https://andreagraglia.gatsbyjs.io](https://andreagraglia.gatsbyjs.io).
  
