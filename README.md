@@ -17,9 +17,8 @@
 
 | WHEN      | ROLE                                   | WHERE                    |
 | :-------- | :------------------------------------- | :----------------------- |
-| 2022-now  | **Fullstack developer**                | Betacom Group            |
-| 2021-2022 | **Fullstack developer**                | Indipendent              |
-| 2018-2021 | **Technical Web MarKeting specialist** | Bonprix srl              |
+| 2022-now  | **Fullstack developer**                | Consultant            |               
+| 2018-2022 | **IT specialist** | Bonprix srl              |
 | 2018      | **E-commerce developer**               | Orange Pix srl           |
 | 2017      | **Junior Web Developer**               | 3w srl                   |
 | 2014-2016 | **Cofounder at Wecoffee**              | Torrefazione Graglia snc |
