@@ -17,7 +17,7 @@
 
 | WHEN      | ROLE                                   | WHERE                    |
 | :-------- | :------------------------------------- | :----------------------- |
-| 2022-now  | **Fullstack developer**                | Consultant            |               
+| 2021-now  | **Fullstack developer**                | Consultant            |               
 | 2018-2022 | **IT specialist** | Bonprix srl              |
 | 2018      | **E-commerce developer**               | Orange Pix srl           |
 | 2017      | **Junior Web Developer**               | 3w srl                   |
@@ -40,7 +40,7 @@ Some examples are:
 
 ---
 
-- **Technical Web MarKeting specialist**:
+- **IT specialist**:
   - Opening of a new marketplace for the BonPrix brand, with management of middleware platform
     - _Channel Pilot, bindCommerce, feed_
   - Control of the work-flow on new implementations of e-commerce platforms, management of bug priorities
