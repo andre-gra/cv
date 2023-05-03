@@ -5,8 +5,6 @@
 <dl>
 <dt>Name and Surname</dt>
 <dd>Andrea Graglia</dd>
-<dt>Birthplace and date of Birth </dt>
-<dd>Biella - Italy, 22th June 1985</dd>
 <dt>Spoken languages</dt>
 <dd>Italian, English</dd>
 <dt>Contacts</dt>
@@ -27,21 +25,22 @@
 
 - **Fullstack Developer**:
   - Fullstack developer for E-commerces, websites and webapps
-    - Frontend:  _Microservices architecture, REST APIs, React, Gatsby, Tailwind css, Sass, Markdown, Strapi_
-    - Backend: _Java, Maven, NodeJs, bash scripting_
-    - Db: _Oracle, IBM DB2, MySql, ElasticSearch, GraphQl, Amazon AWS_
-    - Infrastructures: _Ubuntu Server, Windows Server, gitLab, gitHub_
+    - Frontend & Frameworks: use of _Microservices architecture, REST APIs, React, Gatsby, Tailwind css, Sass, Markdown, Strapi, Vite_ and a lot of others...
+    - Backend: use of _Java, Maven, NodeJs, bash scripting_
+    - Db: use of _Oracle, IBM DB2, MySql, ElasticSearch, GraphQl, Amazon AWS, MongoDB_
+    - Infrastructures: use of _Ubuntu Server, Windows Server, gitLab, gitHub_
   
 I followed severals projects and products, with international stakeholders in both sales and finance.
 Some examples are:
+  - developing of new web applications built with reactjs
   - feed generating software written from scratch in Java
-  - product maintenance and new features development of a _digital onboarding_ application, built with Microservices Architecture
+  - product maintenance and new features development of a _digital onboarding_ web application, built with Microservices Architecture
 
 
 ---
 
 - **IT specialist**:
-  - Opening of a new marketplace for the BonPrix brand, with management of middleware platform
+  - Opening of a new marketplace channel, with management of middleware platform
     - _Channel Pilot, bindCommerce, feed_
   - Control of the work-flow on new implementations of e-commerce platforms, management of bug priorities
     - _Bug hunting, Jira workflow_
@@ -79,7 +78,7 @@ Some examples are:
 
 ## SKILLS:
 
-`reactjs` `javascript` `java` `NodeJs` `git` `github` `linux` `windows server` `bash` `power shell` `jira` `css` `gatsbyjs` `graphql` `jamstack` `sql` `docker` `aws` `cookie` `gdpr` `postman`
+`reactjs` `javascript` `java` `NodeJs` `git` `github` `linux` `windows server` `bash` `power shell` `jira` `css` `graphql` `sql` `nosql` `docker` `aws` `cookie` `gdpr` `postman` `scrum` `teamwork` `problem solving` `analysis`
 
 ## EDUCATION:
 
