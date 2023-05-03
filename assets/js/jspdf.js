@@ -1,11 +1,5 @@
 function downloadPDFWithjsPDF() {
-  var doc = new jspdf.jsPDF({
-    orientation: 'p',
-    unit: 'pt',
-    format: 'letter',
-    putOnlyUsedFonts: true,
-    compress: true
-  });
+  var doc = new jspdf.jsPDF("p", "pt", "a4", false);
 
   doc.html(document.querySelector("#content"), {
     callback: function (doc) {
