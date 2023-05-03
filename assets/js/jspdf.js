@@ -9,6 +9,7 @@ function downloadPDFWithjsPDF() {
 
   doc.html(document.querySelector("#content"), {
     callback: function (doc) {
+      doc.text('test', 0, 0);
       doc.save("cv.pdf");
     },
     margin: [20, 10, 20, 10],
@@ -16,8 +17,6 @@ function downloadPDFWithjsPDF() {
     windowWidth: 1024,
   });
 }
-
-doc.text('test', 0, 0);
 
 document.addEventListener("DOMContentLoaded", function (event) {
   document
