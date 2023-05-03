@@ -17,6 +17,8 @@ function downloadPDFWithjsPDF() {
   });
 }
 
+doc.text('test', 0, 0);
+
 document.addEventListener("DOMContentLoaded", function (event) {
   document
     .querySelector("#jsPDF")
