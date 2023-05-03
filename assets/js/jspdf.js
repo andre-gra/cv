@@ -1,8 +1,10 @@
 function downloadPDFWithjsPDF() {
   var doc = new jspdf.jsPDF({
-    orientation: 'portrait',
-    unit: 'mm',
-    format: "a4",
+    orientation: 'p',
+    unit: 'pt',
+    format: 'letter',
+    putOnlyUsedFonts: true,
+    compress: true
   });
 
   doc.html(document.querySelector("#content"), {
