@@ -1,5 +1,5 @@
 function downloadPDFWithjsPDF() {
-  var doc = new jspdf.jsPDF("p", "pt", "a4", false);
+  var doc = new jspdf.jsPDF();
 
   doc.html(document.querySelector("#content"), {
     callback: function (doc) {
