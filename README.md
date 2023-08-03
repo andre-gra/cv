@@ -25,22 +25,23 @@
 ## WORK DETAILS:
 
 - **Fullstack Developer**:
-  - Fullstack developer for E-commerces, websites and webapps
+  
+  - I followed severals projects and products, with international stakeholders in both sales and finance.
+    Some examples are:
+    - developing of new web applications built with reactjs
+    - feed generating software written from scratch in Java
+    - product maintenance and new features development of a _digital onboarding_ web application, built with Microservices Architecture
+      
+  - Skills and tools:
     - Frontend & Frameworks: use of _Microservices architecture, REST APIs, React, Gatsby, Tailwind css, Sass, Markdown, Strapi, Vite_ and a lot of others...
     - Backend: use of _Java, Maven, NodeJs, bash scripting_
     - Db: use of _Oracle, IBM DB2, MySql, ElasticSearch, GraphQl, Amazon AWS, MongoDB_
     - Infrastructures: use of _Ubuntu Server, Windows Server, gitLab, gitHub_
   
-I followed severals projects and products, with international stakeholders in both sales and finance.
-Some examples are:
-  - developing of new web applications built with reactjs
-  - feed generating software written from scratch in Java
-  - product maintenance and new features development of a _digital onboarding_ web application, built with Microservices Architecture
-
-
 ---
 
 - **IT specialist**:
+  
   - Opening of a new marketplace channel, with management of middleware platform
     - _Channel Pilot, bindCommerce, feed_
   - Control of the work-flow on new implementations of e-commerce platforms, management of bug priorities
@@ -53,6 +54,7 @@ Some examples are:
 ---
 
 - **E-commerce developer at OrangePix**:
+  
   - Development of new e-commerce sites on Prestashop platform
     - _php, javascript, html, css, object orientd programming, mySql_
   - Bug fixing
@@ -63,6 +65,7 @@ Some examples are:
 ---
 
 - **Web developer at 3W**:
+  
   - Developement of a new e-commerce sites on Magento(V2) platform
     - _php, javascript, html, css, object oriented programming, mySql_
   - Content upload on Magento platform
@@ -70,6 +73,7 @@ Some examples are:
 ---
 
 - **Web master at Wecoffee**:
+  
   - Ideating of a new bio coffee brand in eco-packaging
   - Development of the packaging
   - Development and management of a static website on Wordpress and an e-commerce site on Prestashop
@@ -89,6 +93,7 @@ Some examples are:
     - Itis Q.Sella - Biella
 
 ## CERTIFICATIONS:
+
 1. **Full Stack Open**
    - University of Helsinki - [https://studies.cs.helsinki.fi/stats/api/certificate/fullstackopen/en/7abe11eabda36fa929b453dff894eb70](https://studies.cs.helsinki.fi/stats/api/certificate/fullstackopen/en/7abe11eabda36fa929b453dff894eb70)
 
