@@ -28,15 +28,15 @@
   
   - I followed severals projects and products, with international stakeholders in both sales and finance.
     Some examples are:
-    - developing of new web applications built with reactjs
+    - developing of new web applications built with reactjs and Web components
     - feed generating software written from scratch in Java
     - product maintenance and new features development of a _digital onboarding_ web application, built with Microservices Architecture
       
   - Skills and tools:
-    - Frontend & Frameworks: use of _Microservices architecture, REST APIs, React, Gatsby, Tailwind css, Sass, Markdown, Strapi, Vite_ and a lot of others...
+    - Frontend & Frameworks: use of _Microservices architecture, REST APIs, React, Gatsby, Tailwind css, Sass, Markdown, Strapi, Vite, Web Components_ and a lot of others...
     - Backend: use of _Java, Maven, NodeJs, bash scripting_
-    - Db: use of _Oracle, IBM DB2, MySql, ElasticSearch, GraphQl, Amazon AWS, MongoDB_
-    - Infrastructures: use of _Ubuntu Server, Windows Server, gitLab, gitHub_
+    - Db: use of _Oracle, IBM DB2, MySql, ElasticSearch, GraphQl, MongoDB_
+    - Infrastructures: use of _Amazon AWS, Ubuntu Server, Windows Server, gitLab, gitHub_
   
 ---
 
@@ -83,7 +83,7 @@
 
 ## SKILLS:
 
-`reactjs` `javascript` `java` `NodeJs` `git` `github` `linux` `windows server` `bash` `power shell` `jira` `css` `graphql` `sql` `nosql` `docker` `aws` `cookie` `gdpr` `postman` `scrum` `teamwork` `problem solving` `analysis`
+`reactjs` `javascript` `java` `NodeJs` `Web Components` `Vite` `git` `github` `linux` `windows server` `bash` `power shell` `jira` `css` `graphql` `sql` `nosql` `docker` `aws` `cookie` `gdpr` `postman` `scrum` `teamwork` `problem solving` `analysis`
 
 ## EDUCATION:
 
