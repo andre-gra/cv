@@ -30,15 +30,17 @@
   - Since April 2022 my work commitment has been only for a single client. The main project I follow with my team is a web application based on microservice architecture. The frontend is built with ReactJs, wich is the part of the application I am responsible as a frontend developer.
   I also started, for the same client, others projects of web applications used internally, and the creation of a UI library built with Web Components.
 
-  - Stack:
+  - **Stack**
     - _Frontend_: React, React Hooks, Tailwind css, Sass, Markdown, React Query, Axios, Vite, Web Components (Stencil), Redux, Storybook and a lot of others...
     - _Backend_: NodeJs, bash scripting
     - _Db_: MongoDB
     - _Authentication_: Keycloak
   
-  - Tools: Jira (Scrum methodology), GiLab, Jenkins, Postman, docker, portainer
+  - **Tools**
+    - Jira (Scrum methodology), GiLab, Jenkins, Postman, docker, portainer
 
-  - Personal Portfolio: below are some examples of React live applications created by me:
+  - **Personal Portfolio**  
+    Below are some examples of React live applications created by me:
     - A templating system I created, with some UI components that you can use with theming. You can try a live demo [here](https://oryx-ui.onrender.com), or visit the repository at [https://github.com/andre-gra/oryx-ui](https://github.com/andre-gra/oryx-ui).
     - A small site for intergalactic exploration! 🚀 Try it at [here](https://galaxy-explorer.onrender.com/) or check the repo at [https://github.com/andre-gra/future](https://github.com/andre-gra/future).
   
