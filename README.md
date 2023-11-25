@@ -31,7 +31,7 @@
   I also started, for the same client, others projects of web applications used internally, and the creation of a UI library built with Web Components.
 
   - **Stack**
-    - _Frontend_: React, React Hooks, Tailwind css, Sass, Markdown, React Query, Axios, Vite, Web Components (Stencil), Redux, Storybook and a lot of others...
+    - _Frontend_: React, Typescript, React Hooks, Tailwind css, Sass, Markdown, React Query, Axios, Vite, Web Components (Stencil), Redux, Storybook and a lot of others...
     - _Backend_: NodeJs, bash scripting
     - _Db_: MongoDB
     - _Authentication_: Keycloak
@@ -80,7 +80,7 @@
 
 ## SKILLS
 
-`reactjs` `javascript` `NodeJs` `Web Components` `Vite` `git` `github` `linux` `jira` `css` `docker` `cookie` `gdpr` `postman` `scrum` `teamwork` `problem solving` `analysis` `Rest Api` `performance patterns`
+`reactjs` `javascript` `typescript` `Web Components` `Vite` `git` `github` `NodeJs` `jira` `css` `docker` `cookie` `gdpr` `postman` `scrum` `teamwork` `problem solving` `analysis` `Rest Api` `performance patterns`
 
 ## EDUCATION
 
