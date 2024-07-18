@@ -17,7 +17,7 @@
 
 | WHEN      | ROLE                                   | WHERE                    |
 | :-------- | :------------------------------------- | :----------------------- |
-| 2021-now  | **React developer**                | Consultant            |
+| 2021-now  | **Frontend developer**                | Betacom srl            |
 | 2018-2022 | **IT specialist** | Bonprix srl              |
 | 2018      | **E-commerce developer**               | Orange Pix srl           |
 | 2017      | **Junior Web Developer**               | 3w srl                   |
@@ -25,15 +25,15 @@
 
 ## WORK DETAILS
 
-- **React Developer**:
+- **Frontend Developer**:
   
-  - Since April 2022 my work commitment has been only for a single client. The main project I follow with my team is a web application based on microservice architecture. The frontend is built with ReactJs, wich is the part of the application I am responsible as a frontend developer.
-  I also started, for the same client, others projects of web applications used internally, and the creation of a UI library built with Web Components.
+  - I follow with my team a web application based on microservice architecture. The frontend is built with ReactJs, wich is the part of the application I am responsible as a frontend developer specialist.
+  I also started others projects of web applications used internally, like a creation of a UI library built with Web Components. Actually I am involved in a project built with Angular.
 
   - **Stack**
     - _Frontend_: React, Typescript, React Hooks, Tailwind css, Sass, Markdown, React Query, Axios, Vite, Web Components (Stencil), Redux, Storybook and a lot of others...
     - _Backend_: NodeJs, bash scripting
-    - _Db_: MongoDB
+    - _Db_: MongoDB, Elasticsearch
     - _Authentication_: Keycloak
   
   - **Tools**
@@ -80,7 +80,7 @@
 
 ## SKILLS
 
-`reactjs` `javascript` `typescript` `Web Components` `Vite` `git` `github` `NodeJs` `jira` `css` `docker` `cookie` `gdpr` `postman` `scrum` `teamwork` `problem solving` `analysis` `Rest Api` `performance patterns`
+`reactjs` `javascript` `typescript` `Web Components` `Angular` `Vite` `git` `github` `NodeJs` `jira` `css` `docker` `cookie` `gdpr` `postman` `scrum` `teamwork` `problem solving` `analysis` `Rest Api` `performance patterns` `UX`
 
 ## EDUCATION
 
