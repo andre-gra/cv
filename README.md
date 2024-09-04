@@ -28,7 +28,7 @@
 - **Frontend Developer**:
   
   - I follow with my team a web application based on microservice architecture. The frontend is built with ReactJs, wich is the part of the application I am responsible as a frontend developer specialist.
-  I also started others projects of web applications used internally, like a creation of a UI library built with Web Components. Actually I am involved in a project built with Angular.
+  I also started others projects of web applications used internally, like a creation of a UI library built with Web Components.
 
   - **Stack**
     - _Frontend_: React, Typescript, React Hooks, Tailwind css, Sass, Markdown, React Query, Axios, Vite, Web Components (Stencil), Redux, Storybook and a lot of others...
@@ -42,7 +42,7 @@
   - **Personal Portfolio**  
     Below are some examples of React live applications created by me:
     - A templating system I created, with some UI components that you can use with theming. You can try a live demo [here](https://oryx-ui.onrender.com), or visit the repository at [https://github.com/andre-gra/oryx-ui](https://github.com/andre-gra/oryx-ui).
-    - A small site for intergalactic exploration! 🚀 Try it at [here](https://galaxy-explorer.onrender.com/) or check the repo at [https://github.com/andre-gra/future](https://github.com/andre-gra/future).
+    - A small site for intergalactic exploration! Try it at [here](https://galaxy-explorer.onrender.com/) or check the repo at [https://github.com/andre-gra/future](https://github.com/andre-gra/future).
   
 ---
 
