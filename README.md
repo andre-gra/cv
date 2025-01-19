@@ -17,8 +17,8 @@
 
 | WHEN      | ROLE                                   | WHERE                    |
 | :-------- | :------------------------------------- | :----------------------- |
-| 2021-now  | **Frontend developer**                | Betacom srl            |
-| 2018-2022 | **IT specialist** | Bonprix srl              |
+| 2021-now  | **Software engineer**                  | Betacom srl              |
+| 2018-2022 | **IT specialist**                      | Bonprix srl              |
 | 2018      | **E-commerce developer**               | Orange Pix srl           |
 | 2017      | **Junior Web Developer**               | 3w srl                   |
 | 2014-2016 | **Cofounder at Wecoffee**              | Torrefazione Graglia snc |
@@ -27,7 +27,7 @@
 
 - **Frontend Developer**:
   
-  - I follow with my team a web application based on microservice architecture. The frontend is built with ReactJs, wich is the part of the application I am responsible as a frontend developer specialist.
+  - I mantain with my team a web application based on microservice architecture. The frontend is built with ReactJs, wich is the part of the application I am responsible as a frontend developer specialist.
   I also started others projects of web applications used internally, like a creation of a UI library built with Web Components.
 
   - **Stack**
