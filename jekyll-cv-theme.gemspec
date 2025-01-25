@@ -4,9 +4,9 @@ Gem::Specification.new do |s|
   s.name          = "jekyll-theme-cv"
   s.version       = "0.1.0"
   s.license       = "CC0-1.0"
-  s.authors       = ["Andrea Graglia"]
+  s.authors       = [""]
   s.email         = [""]
-  s.homepage      = "https://github.com/andre-gra/cv"
+  s.homepage      = ""
   s.summary       = "My personal Jekyll theme for GitHub Pages"
 
   s.files         = `git ls-files -z`.split("\x0").select do |f|
