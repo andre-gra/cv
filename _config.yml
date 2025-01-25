@@ -3,4 +3,4 @@ description: I am a passionate developer with in-depth expertise in React and ot
 show_downloads: false
 show_pdf_downloads: true
 google_analytics:
-remote_theme: andre-gra/cayman
+theme: jekyll-cv-theme
