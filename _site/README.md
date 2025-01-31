@@ -8,7 +8,7 @@
 <dt>Spoken languages</dt>
 <dd>Italian, English</dd>
 <dt>Contacts</dt>
-<dd>andregra717@gmail.com,<br/>https://www.linkedin.com/in/andrea-graglia/</dd>
+<dd>andregra717@gmail.com,<br/><a href="https://www.linkedin.com/in/andrea-graglia/">https://www.linkedin.com/in/andrea-graglia/</a></dd>
 </dl>  
 
 <br>
@@ -109,7 +109,7 @@
 1. **Full Stack Open**
    - University of Helsinki - [https://studies.cs.helsinki.fi/stats/api/certificate/fullstackopen/en/7abe11eabda36fa929b453dff894eb70](https://studies.cs.helsinki.fi/stats/api/certificate/fullstackopen/en/7abe11eabda36fa929b453dff894eb70)
 
-## Personal Portfolio
+## PERSONAL PORTFOLIO
   Below are some examples of React live applications created by me:
   - A templating system I created, with some UI components that you can use with theming. You can try a live demo [here](https://oryx-ui.onrender.com), or visit the repository at [https://github.com/andre-gra/oryx-ui](https://github.com/andre-gra/oryx-ui).
   - A small site for intergalactic exploration! Try it at [here](https://galaxy-explorer.onrender.com/) or check the repo at [https://github.com/andre-gra/future](https://github.com/andre-gra/future).
